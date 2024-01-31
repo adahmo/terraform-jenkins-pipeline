@@ -1,13 +1,13 @@
 variable "aws_access_key" {
   description = "AWS access key"
   type        = string
-  default     = "jenkins-aws"
+  default     = "AKIA36HDULCEIMISKYK6"
 }
 
 variable "aws_secret_key" {
   description = "AWS secret key"
   type        = string
-  default     = "jenkins-aws"
+  default     = "w3OQOPW4G8pike9tX7iNilAAPtNo9ZdxvQnKbri0"
 }
 
 variable "aws_region" {
